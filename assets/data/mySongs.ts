@@ -6,7 +6,7 @@ import {songInfo} from '../data/songInfo';
       songArtist: 'Chris Brown',
       songGenre: 'Pop',
       songYear: 2019,
-      songArtwork: '../assets/images/no_guidance.png'
+      songArtwork: '../assets/images/No Guidance.png'
     },
 
     {
@@ -14,7 +14,7 @@ import {songInfo} from '../data/songInfo';
       songArtist: 'Drake',
       songGenre: 'Pop',
       songYear: 2018,
-      songArtwork: '../assets/images/im_upset.png'
+      songArtwork: '../assets/images/Im Upset.png'
     },
 
    {
@@ -22,7 +22,7 @@ import {songInfo} from '../data/songInfo';
       songArtist: 'Kevin Gates',
       songGenre: 'Pop',
       songYear: 2016,
-      songArtwork: '../assets/images/2_phones.png'
+      songArtwork: '../assets/images/2 Phones.png'
     },
 
      {
@@ -30,7 +30,7 @@ import {songInfo} from '../data/songInfo';
       songArtist: 'The Weeknd',
       songGenre: 'Pop',
       songYear: 2012,
-      songArtwork: '../assets/images/wicked_games.jpg'
+      songArtwork: '../assets/images/Wicked Games.jpg'
 
     }
 
